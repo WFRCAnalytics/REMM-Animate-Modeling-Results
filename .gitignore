@@ -1,0 +1,7 @@
+# Folders
+Outputs/
+Inputs/parcels.gdb
+Inputs/scratch.gdb
+Progression_Metrics/
+.ipynb_checkpoints/
+.backups/
